@@ -17,5 +17,9 @@ namespace Trendyol_Api
             InitializeComponent();
         }
 
+        private void btnDowland_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
